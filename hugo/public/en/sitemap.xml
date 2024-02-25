@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://anuram.at/en/</loc>
+    <lastmod>2024-02-26T02:03:26+06:00</lastmod>
+  </url><url>
+    <loc>https://anuram.at/en/posts/</loc>
+    <lastmod>2024-02-26T02:03:26+06:00</lastmod>
+  </url><url>
+    <loc>https://anuram.at/en/posts/test/</loc>
+    <lastmod>2024-02-26T02:03:26+06:00</lastmod>
+  </url><url>
+    <loc>https://anuram.at/en/tags/</loc>
+  </url>
+</urlset>

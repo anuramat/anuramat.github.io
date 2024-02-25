@@ -1,0 +1,24 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on </title>
+		<link>https://anuram.at/en/posts/</link>
+		<description>Recent content in Posts on </description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<copyright>CHANGE ME</copyright>
+		<lastBuildDate>Mon, 26 Feb 2024 02:03:26 +0600</lastBuildDate>
+		<atom:link href="https://anuram.at/en/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Test post</title>
+			<link>https://anuram.at/en/posts/test/</link>
+			<pubDate>Mon, 26 Feb 2024 02:03:26 +0600</pubDate>
+			
+			<guid>https://anuram.at/en/posts/test/</guid>
+			<description>This is a test </description>
+			<content type="html"><![CDATA[<h1 id="this-is-a-test">This is a test</h1>
+]]></content>
+		</item>
+		
+	</channel>
+</rss>
