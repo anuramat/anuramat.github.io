@@ -1,11 +1,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Posts on CHANGE ME</title>
+		<title>Posts on anuram.at</title>
 		<link>https://anuram.at/en/posts/</link>
-		<description>Recent content in Posts on CHANGE ME</description>
+		<description>Recent content in Posts on anuram.at</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
-		<copyright>CHANGE ME</copyright>
 		<lastBuildDate>Mon, 26 Feb 2024 02:03:26 +0600</lastBuildDate>
 		<atom:link href="https://anuram.at/en/posts/index.xml" rel="self" type="application/rss+xml" />
 		
