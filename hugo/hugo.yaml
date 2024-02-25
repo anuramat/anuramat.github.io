@@ -1,9 +1,10 @@
 baseURL: https://anuram.at/
 languageCode: en-us
 title: anuram.at
-theme: ["PaperMod"]
+theme: ["hugo-PaperMod"]
 
 params:
+  hideFooter: true
   homeInfoParams:
     Title: good enough
     Content: hello /g/uys 👋
