@@ -17,10 +17,6 @@ copyright = "CHANGE ME"
 enableEmoji = true
 
 
-[params.author]
-  name = "author name"
-  about = "site author about"
-
 [taxonomies]
   tag = "tags"
 
@@ -33,7 +29,6 @@ enableEmoji = true
   description = "site description"
   themeColor = "#494f5c"
 
-  homeSubtitle = "home subtitle"
   gitUrl = "https://github.com/anuramat/anuramat.github.io"
 
   justifyContent = false
