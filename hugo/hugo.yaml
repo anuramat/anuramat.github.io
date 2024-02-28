@@ -32,6 +32,14 @@ params:
       url: 'mailto:anuramat@pm.me'
     - name: github
       url: 'https://github.com/anuramat'
+    - name: instagram
+      url: 'https://www.instagram.com/anuramat'
+    - name: linkedin
+      url: 'https://www.linkedin.com/in/anuramat/'
+    - name: twitch
+      url: 'https://www.twitch.tv/no_fun'
+    - name: twitter
+      url: 'https://twitter.com/anuramat'
 menu:
   main:
     - name: posts
