@@ -1,6 +1,4 @@
 baseURL: 'https://anuram.at'
-defaultContentLanguage: en
-defaultContentLanguageInSubdir: true
 theme: hermit-V2
 languageCode: en-us
 title: anuram.at
